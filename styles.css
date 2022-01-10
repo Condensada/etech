@@ -98,11 +98,3 @@ nav a {
 	line-height: 30px;
     color: #fff;
 }
-.vl {
-	border-left: 6px solid green;
-	height: 500px;
-	position: absolute;
-	left: 50%;
-	margin-left: -3px;
-	top: 0;
-  }
